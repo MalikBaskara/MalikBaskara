@@ -1,4 +1,4 @@
-### Hi there 👋 It's Me MalikBaskara
+### Hi there I'M MalikBaskara 👋
 
 <!--
 **MalikBaskara/MalikBaskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MalikBaskara&theme=navy-gear&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalikBaskara&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MalikBaskara&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikBaskara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
